@@ -34,13 +34,33 @@ semana podrás comer todo lo que quieras.
   - Pescado/Pollo/Pavo
   - Verduras
 
+Este tipo de dieta viene sacada del libro [El Cuerpo de 4 horas](http://fourhourbody.com/)
+de Tim Ferris, en la que se recomienda una alimentación muy similar a la recomendada
+por la universidad de Harvard (a excepción de la fruta):
+
+![Plato Harvard]({{ site.url }}/img/blog/harvard-healthy-plate.jpg)
+
+
+### ¿Qué no ha de faltar en el carro de la compra?
+
+- Avena
+- Frutos secos: almendras, nueces, coquitos, avellanas, etc.
+- Huevos ecológicos (código 0)
+- Espinacas
+- Ajo
+- Lentejas
+- Té verde
+- Salmón
+- Cilantro
+
 ### ¿Qué no comer?
 
 - Hidratos de carbono "blancos"/"procesados" (e.g. pan)
 - Azúcar
-- Bebidas calorícas (zumos, lácteos, alcohol, etc.)
+- Bebidas calóricas (zumos, lácteos, alcohol, etc.)
 - Fructosa
 - Carnes rojas
+- Soja
 
 ### Ejercicio
 De 2 a 3 veces por semana haz algo de ejercicio:
