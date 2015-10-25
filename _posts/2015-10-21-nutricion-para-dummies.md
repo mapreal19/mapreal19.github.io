@@ -38,8 +38,7 @@ Este tipo de dieta viene sacada del libro [El Cuerpo de 4 horas](http://fourhour
 de Tim Ferris, en la que se recomienda una alimentación muy similar a la recomendada
 por la universidad de Harvard (a excepción de la fruta):
 
-![Plato Harvard]({{ site.url }}/img/blog/harvard-healthy-plate.jpg)
-
+![Plato Harvard]({{ site.url }}/img/blog/harvard-healthy-plate.jpg){: .img-responsive .center-block }
 
 ### ¿Qué no ha de faltar en el carro de la compra?
 
