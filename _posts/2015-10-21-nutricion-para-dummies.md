@@ -4,7 +4,7 @@ title: Nutrición para dummies
 ---
 # Nutrición para dummies
 
-Dado que tengo varios conocidos que me preguntan sobre qué comer y qué hacer para conseguir el mejor aspecto posible en sus cuerpos, os dejo aquí una pequeña guía.
+Dado que tengo varios conocidos que me preguntan sobre qué comer y qué hacer para conseguir el mejor aspecto posible, os dejo aquí una pequeña guía.
 
 > Ningún ciudadano tiene el derecho de ser un amateur en materia de entrenamiento físico. Qué desgracia es para el hombre envejecer sin nunca ver la belleza y la fuerza de la que su cuerpo es capaz -- Sócrates
 
@@ -62,7 +62,15 @@ por la universidad de Harvard (a excepción de la fruta):
 - Soja
 
 ### Ejercicio
-De 2 a 3 veces por semana haz algo de ejercicio:
+De 2 a 3 veces por semana haz algo de ejercicio. Ejemplos:
 
 - Crossfit
 - Freeletics
+- Natación
+
+### Mide tus Progresos
+Lo más importante de todo es que midas tus progresos. Y a parte de medir los
+kilos que pesas, has de medir tu **% de grasa corporal**. Aquí os dejo un ejemplo
+de mi evolución de estos últimos 3 meses :-)
+
+![Mario Gráfica Grasa]({{ site.url }}/img/blog/mario-fat.png){: .img-responsive .center-block }
