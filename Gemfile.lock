@@ -112,7 +112,9 @@ GEM
     redcarpet (3.3.2)
     safe_yaml (1.0.4)
     sass (3.4.19)
+    stringex (2.5.2)
     terminal-table (1.5.2)
+    thor (0.19.1)
     thread_safe (0.3.5)
     toml (0.1.2)
       parslet (~> 1.5.0)
@@ -127,6 +129,8 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  stringex
+  thor
 
 BUNDLED WITH
    1.10.6
