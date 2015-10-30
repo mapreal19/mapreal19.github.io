@@ -6,7 +6,7 @@ title: "From Matlab to JavaScript"
 # From Matlab to JavaScript
 
 Recently I've been reading an introductory book about *Computational
-Neuroscience* ([Tutorial on Nueral Systems Modeling](http://www.amazon.com/Tutorial-Neural-Systems-Modeling-Anastasio/dp/0878933395/)).
+Neuroscience* ([Tutorial on Neural Systems Modeling](http://www.amazon.com/Tutorial-Neural-Systems-Modeling-Anastasio/dp/0878933395/)).
 You may wonder if this is complicated. Well, you're right, it is complicated
 ¯\\_(ツ)_/¯.
 
