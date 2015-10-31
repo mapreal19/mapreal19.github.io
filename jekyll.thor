@@ -2,6 +2,8 @@ require 'stringex'
 
 # Taken from:
 # http://jonas.brusman.se/2012/12/28/create-jekyll-posts-from-the-command-line/
+#
+# Usage: thor jekyll:new <title post>
 class Jekyll < Thor
   desc 'new', 'create a new post'
   method_option :editor, default: 'atom'
