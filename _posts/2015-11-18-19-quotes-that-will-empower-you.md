@@ -36,7 +36,7 @@ helplessness, even among your best friends, in a pleasant atmosphere and comfort
 
 14. "If you don't like how things are, change it! You're not a tree." -- Jim Rohn
 
-15. "Look at everything as though you were seeing it either for the first or the last time."" -- Betty Smith
+15. "Look at everything as though you were seeing it either for the first or the last time." -- Betty Smith
 
 16. "Remember, your dreams are as hungry as your demons. Make sure you're feeding the right ones" -- Anonymous
 
