@@ -39,7 +39,7 @@ Just don't use them.
 
 Don't use Null to send a message in your method.
 
-{% include image.html file="nil-msg.jpg" %}
+{% include image.html file="nil-mail.jpg" %}
 
 5 - **Encapsulate Collections**
 
