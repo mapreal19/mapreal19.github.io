@@ -6,3 +6,5 @@ sass:
 
 gems:
   - jekyll-gist
+
+exclude: [vendor]
