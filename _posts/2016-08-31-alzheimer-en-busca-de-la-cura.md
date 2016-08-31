@@ -8,7 +8,7 @@ title: "Alzheimer: En Busca de la Cura"
 <br>
 
 El Alzheimer, enfermedad que roba la identidad de la persona que la padece, es
-causa de sufrimiento para millones de personas en todo el mundo. A día de hoy no
+causa de sufrimiento para millones de personas en todo el mundo. Actualmente no
 existe una cura.
 
 Pero, ¿cómo de lejos estamos de conseguirla? Quizás estemos más cerca de lo que
@@ -27,9 +27,9 @@ para curar la EA.
 
 Ninguno de estos ensayos ha resultado satisfactorio. Quizás, el problema es que
 hemos elegido al amiloide como la causa, cuando podría ser un síntoma de la
-enfermedad. Es como si intentaramos curar una enfermedad bacteriana,
-centrándonos solo en la fiebre producida por dicha infección. No
-hemos elegido el objetivo correcto.
+enfermedad. Es como si intentáramos curar una enfermedad bacteriana,
+centrándonos solo en la fiebre producida por dicha infección. El objetivo no ha
+sido el correcto.
 
 {% include image.html file="wrong-target.jpg" %}
 
@@ -40,7 +40,7 @@ de sufrir la enfermedad.
 {% include image.html file="casos-alzheimer.jpg" %}
 
 La posible causa podría estar relacionada con el envejecimiento de las células
-de la microglía. Se sabe que la microglía es capaz de eliminar estos depósitos
+de la microglía. Éstas son capaces de eliminar estos depósitos
 de amiloide en la corteza cerebral, pero a medida que el sujeto envejece esta
 capacidad se ve mermada.
 
@@ -56,8 +56,8 @@ vendría a ser el herrete del cordón de tu zapato.
 
 {% include image.html file="herrete.jpg" %}
 
-El problema viene a que el telómero se acorta con cada división celular. Al acortarse
-el télomero la expresión genética cambia (i.e. fenotipo), ocasionando
+Sin embargo, el telómero se acorta con cada división celular. Al acortarse,
+la expresión genética cambia (i.e. fenotipo), ocasionando
 un menor recambio de móleculas que son necesarias para nuestro organismo.
 
 Aunque las neuronas adultas no se dividen, sí lo hacen las células gliales que dan
@@ -66,10 +66,9 @@ la microglía se vuelve menos eficiente a la hora de eliminar los depósitos de
 péptido amiloide. El aumento de estos depósitos provocan unos daños que las
 neuronas no pueden tolerar, provocando su muerte.
 
-¿Podemos entonces hacer que los telómeros de la microglía vuelvan a su longitud
-original?
+¿Podemos devolver a los telómeros de la microglía su longitud original?
 
-Es aquí donde entra en juego la enzima telomerasa, enzima presente en las células
+Es aquí donde entra en juego la enzima telomerasa, presente en las células
 germinales y que permite el alargamiento de los telómeros. Si conseguimos
 "resetear" la longitud de los telómeros de la microglía, esta podrá volver a funcionar
 como en un individuo de 20 años, previniendo así los depósitos de amiloide y la posterior
@@ -82,5 +81,16 @@ de la empresa [Telocyte](http://www.telocyte.com/). Otra empresa [Life Length](h
 fundada por la doctora María Blasco (directora del Centro Nacional de Investigaciones Oncológicas)
 ya nos ofrece la posibilidad de medir la longitud de nuestros telómeros.
 
-Esperemos que está sea la vía que nos permita curar el Alzheimer, además de otras enfermedades
-ocasionadas por la vejez.
+Esperemos que está sea una vía que nos permita curar el Alzheimer, además de otras enfermedades
+asociadas con la edad.
+
+<br>
+
+### Referencias
+
+- [https://es.wikipedia.org/wiki/Telómero](https://es.wikipedia.org/wiki/Telómero)
+- [http://www.rtve.es/alacarta/videos/telediario/telomerasa-enzima-eterna-juventud/2564480/](http://www.rtve.es/alacarta/videos/telediario/telomerasa-enzima-eterna-juventud/2564480/)
+- [https://es.wikipedia.org/wiki/Enfermedad_de_Alzheimer](https://es.wikipedia.org/wiki/Enfermedad_de_Alzheimer)
+- [Libro: The Telomerase Revolution](https://www.amazon.com/Telomerase-Revolution-Enzyme-Aging-Healthier/dp/194163169X)
+- [Libro: Morir joven, a los 140](https://www.amazon.es/Morir-joven-los-140-envejecimiento-ebook/dp/B01D0KKNMQ)
+- Neuroinflamación en la Enfermedad de Alzheimer - Eva Baeza
