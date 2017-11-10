@@ -215,7 +215,7 @@ GEM
     stringex (2.6.0)
     terminal-table (1.8.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
-    thor (0.19.1)
+    thor (0.20.0)
     thread_safe (0.3.6)
     typhoeus (0.8.0)
       ethon (>= 0.8.0)
