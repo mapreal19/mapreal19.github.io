@@ -248,6 +248,7 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   html-proofer
+  jekyll-feed
   stringex
   thor
 
@@ -255,4 +256,4 @@ RUBY VERSION
    ruby 2.4.2p198
 
 BUNDLED WITH
-   1.15.4
+   1.16.0
