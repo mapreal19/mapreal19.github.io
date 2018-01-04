@@ -17,58 +17,7 @@ layout: default
   </div>
 </header>
 
-<section id="portfolio">
-  <div class="container">
-    <div class="row">
-      <div class="col-lg-12 text-center">
-        <h2>Portfolio</h2>
-        <hr class="star-primary">
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-sm-4 portfolio-item">
-        <a href="#portfolioModal1" class="portfolio-link" data-toggle="modal">
-          <div class="caption">
-            <div class="caption-content">
-              <i class="fa fa-search-plus fa-3x"></i>
-            </div>
-          </div>
-          <img src="img/portfolio/agile-roadmap.jpg" class="img-responsive" alt="Agile Roadmap">
-        </a>
-      </div>
-      <div class="col-sm-4 portfolio-item">
-        <a href="#portfolioModal2" class="portfolio-link" data-toggle="modal">
-          <div class="caption">
-            <div class="caption-content">
-              <i class="fa fa-search-plus fa-3x"></i>
-            </div>
-          </div>
-          <img src="img/portfolio/keepmefit.jpg" class="img-responsive" alt="Keepmefit">
-        </a>
-      </div>
-      <div class="col-sm-4 portfolio-item">
-        <a href="#portfolioModal3" class="portfolio-link" data-toggle="modal">
-          <div class="caption">
-            <div class="caption-content">
-              <i class="fa fa-search-plus fa-3x"></i>
-            </div>
-          </div>
-          <img src="img/portfolio/glassy.jpg" class="img-responsive" alt="Glassy">
-        </a>
-      </div>
-      <div class="col-sm-4 portfolio-item">
-        <a href="#portfolioModal4" class="portfolio-link" data-toggle="modal">
-          <div class="caption">
-            <div class="caption-content">
-              <i class="fa fa-search-plus fa-3x"></i>
-            </div>
-          </div>
-          <img src="img/portfolio/encestado.jpg" class="img-responsive" alt="Encestado">
-        </a>
-      </div>
-    </div>
-  </div>
-</section>
+{% include portfolio.html %}
 
 <section class="success" id="about">
   <div class="container">
@@ -228,11 +177,53 @@ layout: default
       <div class="row">
         <div class="col-lg-8 col-lg-offset-2">
           <div class="modal-body">
+            <h2>Refden</h2>
+            <hr class="star-primary">
+            <img src="img/portfolio/refden.png" class="img-responsive img-centered" alt="Refden">
+            <p>
+              Reference manager built with Ruby on Rails
+            </p>
+            <ul class="list-inline item-details">
+              <li>Url:
+                <strong><a href="https://www.refden.co">
+                  refden.co
+                </a></strong></li>
+                <li>Date:
+                  <strong>2016 to present
+                  </strong>
+                </li>
+              </ul>
+              <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-content">
+    <div class="close-modal" data-dismiss="modal">
+      <div class="lr">
+        <div class="rl">
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-lg-offset-2">
+          <div class="modal-body">
             <h2>AgileRoadmap+</h2>
             <hr class="star-primary">
             <img src="img/portfolio/agile-roadmap.jpg" class="img-responsive img-centered" alt="Agile Roadmap">
             <p>
-              Final master project where a web application was built. The application helps you to establish an agile roadmap in working teams. Ruby on Rails, jQuery and Bootstrap were used for the implementation. Heroku was used for the development environment while DigitalOcean and Dokku were used in production.
+              Master degree's final project. The web app helps you creating an agile roadmap for your team.
+            </p>
+
+            <p>
+              <strong>Tech Stack:</strong>
+              Ruby on Rails, Bootstrap, jQuery, Heroku, DigitalOcean + Dokku
             </p>
             <ul class="list-inline item-details">
               <li>Url:
@@ -252,7 +243,7 @@ layout: default
     </div>
   </div>
 </div>
-<div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
+<div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
   <div class="modal-content">
     <div class="close-modal" data-dismiss="modal">
       <div class="lr">
@@ -267,7 +258,7 @@ layout: default
             <h2>KeepMeFit</h2>
             <hr class="star-primary">
             <img src="img/portfolio/keepmefit.jpg" class="img-responsive img-centered" alt="Keepmefit">
-            <p>Final degree project that involved the creation of a web application for managing workouts in sport centers. Ruby on Rails and Bootstrap was used for the implementation</p>
+            <p>Degree's final project that involved the creation of a web app for managing workouts in sport centers. Ruby on Rails and Bootstrap was used for the implementation</p>
             <ul class="list-inline item-details">
               <li>Url:
                 <strong><a href="https://keepmefit.herokuapp.com/">
@@ -277,44 +268,6 @@ layout: default
               <li>Date:
                 <strong>
                   2013
-                </strong>
-              </li>
-            </ul>
-            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
-  <div class="modal-content">
-    <div class="close-modal" data-dismiss="modal">
-      <div class="lr">
-        <div class="rl">
-        </div>
-      </div>
-    </div>
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-8 col-lg-offset-2">
-          <div class="modal-body">
-            <h2>Glassy</h2>
-            <hr class="star-primary">
-            <img src="img/portfolio/glassy.jpg" class="img-responsive img-centered" alt="Glassy">
-            <p>
-              Worked in the development of a social network for surfers.
-              I was in charge of the frontend and Responsive Design. We used PHP (Zend framework)
-
-            </p>
-            <ul class="list-inline item-details">
-              <li>Url:
-                <strong><a href="https://glassy.pro/">Glassy</a>
-                </strong>
-              </li>
-              <li>Date:
-                <strong>
-                  October 2012 to January 2013
                 </strong>
               </li>
             </ul>
@@ -337,6 +290,43 @@ layout: default
       <div class="row">
         <div class="col-lg-8 col-lg-offset-2">
           <div class="modal-body">
+            <h2>Glassy</h2>
+            <hr class="star-primary">
+            <img src="img/portfolio/glassy.jpg" class="img-responsive img-centered" alt="Glassy">
+            <p>
+              Worked in the development of a social network for surfers.
+              I was in charge of the frontend and Responsive Design. We used PHP (Zend framework)
+            </p>
+            <ul class="list-inline item-details">
+              <li>Url:
+                <strong><a href="https://glassy.pro/">Glassy</a>
+                </strong>
+              </li>
+              <li>Date:
+                <strong>
+                  October 2012 to January 2013
+                </strong>
+              </li>
+            </ul>
+            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
+  <div class="modal-content">
+    <div class="close-modal" data-dismiss="modal">
+      <div class="lr">
+        <div class="rl">
+        </div>
+      </div>
+    </div>
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-8 col-lg-offset-2">
+          <div class="modal-body">
             <h2>Encestado</h2>
             <hr class="star-primary">
             <img src="img/portfolio/encestado.jpg" class="img-responsive img-centered" alt="Encestado">
@@ -344,7 +334,7 @@ layout: default
               Owner of the Project and Lead Developer. Encestado is a web app for Nba fans. You are in charge of building your own team of 8 players, where each of them will give you points depending on its performance in real NBA games. The main objective is to have the best team with the most points among all the users.
             </p>
             <p>
-              <strong>Our stack:</strong>
+              <strong>Tech Stack:</strong>
               Ruby on Rails, Bootstrap, Ruby Slim, RSpec, Sass, CoffeeScript, jQuery,
               AngularJS, Git, Github, Dokku, DigitalOcean, Slack.
             </p>
