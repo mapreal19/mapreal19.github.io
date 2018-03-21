@@ -16,7 +16,7 @@ class Jekyll < Thor
     abort("#{filename} already exists!") if File.exist?(filename)
 
     create_post(filename, title)
-    system(options[:editor], filename)
+    system(options[:editor], '.')
   end
 
   private
