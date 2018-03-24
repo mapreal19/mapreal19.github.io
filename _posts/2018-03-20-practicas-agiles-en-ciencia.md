@@ -98,3 +98,9 @@ el re-trabajo que se da en casos cuando ya has terminado un trabajo que estaba m
   file="agile-science/feedback.jpg"
   text="Credit: https://pixabay.com/es/users/geralt-9301/"
 %}
+
+<hr>
+
+Puedes encontrar más prácticas ágiles en:
+
+http://agile-roadmap.tuneupprocess.com/
