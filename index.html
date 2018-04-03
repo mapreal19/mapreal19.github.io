@@ -114,7 +114,10 @@ layout: default
     <div class="row">
       <div class="col-lg-8 col-lg-offset-2">
         <div class="row">
-          <div class="col-lg-9">
+          <div class="col-lg-2">
+            <img class="img-responsive" src="img/uv.gif" alt="Uv">
+          </div>
+          <div class="col-lg-7">
             <p>
               <strong>Master's Degree in Basic and Applied Neurosciences</strong>
               <br>
@@ -125,8 +128,11 @@ layout: default
             <p class="pull-right">2016 to 2017</p>
           </div>
         </div>
-        <div class="row">
-          <div class="col-lg-9">
+        <div class="row mt-10">
+          <div class="col-lg-2">
+            <img class="img-responsive" src="img/upv.gif" alt="Upv">
+          </div>
+          <div class="col-lg-7">
             <p>
               <strong>Master's Degree in Software Engineering, Formal Methods and Information Systems</strong>
               <br>
@@ -138,7 +144,10 @@ layout: default
           </div>
         </div>
         <div class="row">
-          <div class="col-lg-9">
+          <div class="col-lg-2">
+            <img class="img-responsive" src="img/upv.gif" alt="Upv">
+          </div>
+          <div class="col-lg-7">
             <p>
               <strong>MSC in Computer Science Engineering</strong>
               <br>
@@ -149,8 +158,11 @@ layout: default
             <p class="pull-right">2007 to 2013</p>
           </div>
         </div>
-        <div class="row">
-          <div class="col-lg-9">
+        <div class="row mt-10">
+          <div class="col-lg-2">
+            <img class="img-responsive" src="img/UniversityLeicester.png" alt="University of Leicester">
+          </div>
+          <div class="col-lg-7">
             <p>
               <strong>Erasmus Program</strong>
               <br>
@@ -161,8 +173,11 @@ layout: default
             <p class="pull-right">2011 to 2012</p>
           </div>
         </div>
-        <div class="row">
-          <div class="col-lg-9">
+        <div class="row mt-10">
+          <div class="col-lg-2">
+            <img class="img-responsive" src="img/HogeschoolAmsterdam.png" alt="Hogeschool Amsterdam">
+          </div>
+          <div class="col-lg-7">
             <p>
               <strong>Erasmus Intensive Program: Location Based Services</strong>
               <br>
@@ -176,41 +191,36 @@ layout: default
 
         <div class="row">
           <div class="col-lg-9">
-            <p>
-              <strong>MOOCs</strong>
-              <br>
-              Software as a Service I & II (eDX)
-              <br>
-              Programming Languages (Coursera)
-              <br>
-              Web Development (Udacity)
-              <br>
-              Android Development (MiriadaX)
-              <br>
-              Software Debugging (Udacity)
-              <br>
-              Website Performance Optimization (Udacity)
-              <br>
-              Mobile Web Development (Udacity)
-            </p>
+            <p><strong>MOOCs</strong></p>
           </div>
           <div class="col-lg-3">
+            <p class="pull-right">2016</p>
+          </div>
+        </div>
+
+        <div class="row mt-20">
+          <div class="col-lg-9">
+            {% include mooc_course.html text="Medical Neuroscience" img="coursera.png" alt="Coursera" %}
+            {% include mooc_course.html text="Refactoring to Patterns" img="geekshub.png" alt="Geekshub" %}
+            {% include mooc_course.html text="Computational Neuroscience" img="coursera.png" alt="Coursera" %}
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-12-3">
             <p class="pull-right">2013 to 2014</p>
           </div>
         </div>
 
         <div class="row">
           <div class="col-lg-9">
-            <p>
-              Medical Neuroscience (Coursera)
-              <br>
-              Refactoring to Patterns (GeeksHubs Academy)
-              <br>
-              Computational Neuroscience (Coursera)
-            </p>
-          </div>
-          <div class="col-lg-3">
-            <p class="pull-right">2016</p>
+            {% include mooc_course.html text="Software as a Service I & II" img="edx.jpg" alt="eDX" %}
+            {% include mooc_course.html text="Programming Languages" img="coursera.png" alt="Coursera" %}
+            {% include mooc_course.html text="Web Development" img="udacity.png" alt="Udacity" %}
+            {% include mooc_course.html text="Android Development" img="miriadax.jpeg" alt="Miriadax" %}
+            {% include mooc_course.html text="Software Debugging" img="udacity.png" alt="Udacity" %}
+            {% include mooc_course.html text="Website Performance Optimization" img="udacity.png" alt="Udacity" %}
+            {% include mooc_course.html text="Mobile Web Development" img="udacity.png" alt="Udacity" %}
           </div>
         </div>
       </div>

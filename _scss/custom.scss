@@ -5,3 +5,26 @@
 .nav > li > a {
   font-size: 13px;
 }
+
+.mt-5 {
+  margin-top: 5px;
+}
+
+.mt-10 {
+  margin-top: 10px;
+}
+
+.mt-20 {
+  margin-top: 20px;
+}
+
+.row-flex {
+  @extend .row;
+
+  display: flex;
+}
+
+.vertical-align {
+  display: flex;
+  align-items: center;
+}
