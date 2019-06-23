@@ -57,7 +57,7 @@ The Pomodoro technique is a widely known approach to working/studying in sprints
 
 Before starting... "It is perfectly normal to start with a few negative feelings about beginning a learning session—even when it’s a subject you ordinarily like. It’s how you handle those feelings that matters."
 
-Also, this technique will help you to focus in the process and not in the final product. Furthermore it'll help you to avoid multitasking:  
+Also, this technique will help you to focus in the process and not in the final product. It'll help you to avoid multitasking too:  
 
 a) Human beings cannot multitask.  
 
@@ -86,7 +86,7 @@ It's better to start with the most difficult/least pleasant task in the morning.
 
 Einstellung refers to a person's predisposition to solve a given problem in a specific manner even though better or more appropriate methods of solving the problem exist<sup>4</sup>.  
 
-Acknowledge this effect and be always eager to learn new things or new approach to future problems!
+Acknowledge this effect and be always eager to learn new things or new approaches to future problems!
 
 {% include image.html file="learning/expert.png" %}
 
