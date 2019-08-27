@@ -8,7 +8,7 @@ notifications:
   email: false
 sudo: false # route your build to the container-based infrastructure for a faster build
 rvm:
-- 2.5.1
+- 2.6.3
 
 before_install: gem install bundler
 script: ./script/cibuild
