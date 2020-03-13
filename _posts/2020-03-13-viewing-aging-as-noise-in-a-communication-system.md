@@ -31,7 +31,7 @@ What is this noise source? The best chance is to look at our telomeres, the shor
 
 In the above example we can see than an altered gene expression results in a reduced number of collagen proteins, and hence contributing to skin aging.
 
-This is all an oversimplification but good for explaining aging for non scientist:
+This is all an oversimplification but good for explaining aging to non scientists:
 
 Aging is not just wear and tear, in fact our cells have been around for billions of years. In a living organism if we are able to reduce the noise source, in this case resetting telomere length, we will again have an unaltered signal and young cells. Is that simple? Soon we will see how this goes in humans 🤷, it has already been proved right in mice 🐭🐭.
 
