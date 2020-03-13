@@ -29,7 +29,7 @@ What is this noise source? The best chance is to look at our telomeres, the shor
 
 {% include image.html file="aging-noise/short-telomere.png" %}
 
-In the above example we can see than an altered gene expression results in a reduced number of collagen proteins, and hence contributing to skin aging.
+In the above example we can see that an altered gene expression results in a reduced number of collagen proteins, and hence contributing to skin aging.
 
 This is all an oversimplification but good for explaining aging to non scientists:
 
