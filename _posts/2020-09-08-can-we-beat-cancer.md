@@ -7,14 +7,14 @@ title: "Can we beat cancer"
 
 <br>
 
-Got the idea for this post from the question Tim Ferris asked Dom D'Agostino
+I got the idea for this post from the question Tim Ferris asked Dom D'Agostino
 in his podcast<sup>1</sup>. He asked what tools he would use if he got advanced cancer today.
 
 I will try to expand this question taking as an example Ovarian Cancer.
 
 <br>
 
-<strong>What I would do if someone I love has Ovarian Cancer?</strong>
+<strong>What would I do if someone I love has Ovarian Cancer?</strong>
 
 <br>
 
@@ -35,7 +35,7 @@ there is nothing we can do about. Nowadays, cancer death rates have declined and
 more people survive the disease. Just in the US, the death rate has dropped 27%
 in the last 25 years<sup>2</sup>.
 
-Be optimistic and think there are many things we could about. Many are aware of
+Be optimistic and think there are many things we can do about it. Many are aware of
 the "placebo" effect, but you have to know also the "nocebo" effect:
 if you believe something is going to kill you your brain will act against you
 making things worse<sup>3</sup>.
@@ -61,7 +61,7 @@ rendering them susceptible to clinical treatments<sup>4</sup>. If mixing with ch
 it also can sensitive the tumor for its therapeutic effects while having fewer side
 effects in healthy cells<sup>5</sup>.
 
-There is a couple of protocols you could follow: time-restricted feeding or 5:2
+There are a couple of protocols you could follow: time-restricted feeding or 5:2
 Intermittent Fasting, being the first one easier to follow and with great benefits
 if we follow a Ketogenic Diet (next item).
 
@@ -72,9 +72,9 @@ if we follow a Ketogenic Diet (next item).
 ### Ketogenic Diet
 
 The Ketogenic Diet has been long used for treating epilepsy in children or to manage seizures.
-In recent years this diet has been investigated for treating other diseases.  
+In recent years, this diet has been investigated for treating other diseases.  
 
-You have to think as glucose as the enemy since is the primary source of energy for
+You have to think of glucose as the enemy since is the primary source of energy for
 the majority of cancer cells, these cells can't use ketones effectively as fuel
 because defects on mitochondria<sup>6</sup>.
 
