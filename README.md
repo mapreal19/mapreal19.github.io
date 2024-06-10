@@ -2,3 +2,11 @@
 Personal Website 
 
 [![Build Status](https://travis-ci.org/mapreal19/mapreal19.github.io.svg?branch=master)](https://travis-ci.org/mapreal19/mapreal19.github.io)
+
+# Commands
+
+## Start server
+
+```bash
+bundle exec jekyll serve
+```
